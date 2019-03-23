@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Data Share</string>
+    <string name="hint_user">User</string>
+    <string name="hint_pass">Password</string>
+    <string name="hint_mail">E-Mail</string>
+    <string name="hint_gender">Gender</string>
+    <string name="text_btn_enviar">Enviar</string>
+    <string name="label_user">User:</string>
+    <string name="txt_btn_share">Compartir</string>
+    <string name="label_pass">Password:</string>
+    <string name="label_mail">E-Mail:</string>
+    <string name="label_gender">Gender:</string>
+</resources>
